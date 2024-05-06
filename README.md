@@ -36,7 +36,11 @@ After exceeding the package limits:
 # Data
 
 **megaline_calls.csv**: each row contains call duration (in minutes)
+
 **megaline_internet.csv** each row contains data on web sessions
+
 **megaline_messages.csv** each row contains information on messages
+
 **megaline_plans.csv**: each row contains plans information
+
 **megaline_users.csv**: each row contains data on users
